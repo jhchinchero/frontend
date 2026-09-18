@@ -1,0 +1,1 @@
+import{p as s,c as t,a as o,t as a,o as r}from"./index-CGlp8Azh.js";const c={},n={class:"card mb-4"};function l(_,e){return r(),t("div",n,[...e[0]||(e[0]=[o("p",null,a("<>"),-1)])])}const i=s(c,[["render",l]]);export{i as default};

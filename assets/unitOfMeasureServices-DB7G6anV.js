@@ -1,0 +1,1 @@
+import{G as t}from"./index-CGlp8Azh.js";const o=async()=>(await t.get("/units")).data,r=async s=>(await t.post("/units",s)).data,c=async(s,e)=>(await t.put(`/units/${s}`,e)).data,i=async s=>(await t.delete(`/units/${s}`)).data;export{r as c,i as d,o as g,c as u};

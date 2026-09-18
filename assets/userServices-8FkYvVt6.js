@@ -1,0 +1,1 @@
+import{G as s}from"./index-CGlp8Azh.js";const n={async list(){return await s.get("/users")},async get(e){return(await s.get(`/users/${e}`)).data},async create(e){return(await s.post("/users",e)).data},async update(e,t){return(await s.put(`/users/${e}`,t)).data},async delete(e){return(await s.delete(`/users/${e}`)).data}};export{n as u};
